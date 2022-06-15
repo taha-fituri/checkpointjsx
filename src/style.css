@@ -1,0 +1,23 @@
+.App {
+}
+.title {
+  background-color: aquamarine;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+}
+.red {
+  width: auto;
+  margin: 1% 40%;
+}
+.imgdiv {
+  padding: 2%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: none !important;
+}
+.video {
+  display: flex;
+  justify-content: center;
+}
